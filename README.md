@@ -46,8 +46,7 @@ This is the plot showing the accuracy and the cost after 10 times changing the l
     </img>
 </p>
 You can find these statistics in result.txt.
+
 ## More information
 
 This research project is inspired respectfully by a book by associate professor Tho Quan, "Mang No Ron Nhan Tao Tu Hoi Quy Den Hoc Sau". However, the project focuses on explaining and implementing the Logistic Regression algorithm without building any neural network for the sake of simplicity and consistency.
-
-I'm happy to share with 
