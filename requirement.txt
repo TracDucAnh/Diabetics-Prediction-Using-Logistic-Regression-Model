@@ -1,0 +1,6 @@
+Python
+NumPy
+Pandas
+Matplotlib
+Sklearn
+ydata_profilling
