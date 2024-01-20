@@ -25,9 +25,8 @@ I create a repository on github where I store and share my code. The repository 
 Having run the model many times with effort, I have found the highest accuracy that the model performs is approximately 80.5%. This might not be the best result that the model could return thus you can improve the model with your knowledge and experience. I believe that changing the learning rate, the iteration, or  the random state in the code could explore more surprising results. Another approach also improves the performance as well.
 
 This is the plot showing the accuracy and the cost after 10 times changing the learning rate alpha of the original code:
-
-![Alt text](https://scontent.xx.fbcdn.net/v/t1.15752-9/413489702_727311096185996_1394957675497422875_n.png?_nc_cat=107&ccb=1-7&_nc_sid=510075&_nc_eui2=AeEhzj9nO_zRf8uQ_nrKL-tIdaAjxtM2WO51oCPG0zZY7k_BkWFdArz1aegH_UWJfses7WywG0umMt-WvnsBti4M&_nc_ohc=3fxwpVPeqtMAX-hRYLV&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTfDqaPkHgJv919Jd4i95q5bFMJIWLX6KFL4ZmOWK2h1g&oe=65D36B00)
-
+<div style="text-align: center;">![Alt text](https://scontent.xx.fbcdn.net/v/t1.15752-9/413489702_727311096185996_1394957675497422875_n.png?_nc_cat=107&ccb=1-7&_nc_sid=510075&_nc_eui2=AeEhzj9nO_zRf8uQ_nrKL-tIdaAjxtM2WO51oCPG0zZY7k_BkWFdArz1aegH_UWJfses7WywG0umMt-WvnsBti4M&_nc_ohc=3fxwpVPeqtMAX-hRYLV&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTfDqaPkHgJv919Jd4i95q5bFMJIWLX6KFL4ZmOWK2h1g&oe=65D36B00)
+</div>
 ## More information
 
 This research project is inspired respectfully by a book by associate professor Tho Quan, "Mang No Ron Nhan Tao Tu Hoi Quy Den Hoc Sau". However, the project focuses on explaining and implementing the Logistic Regression algorithm without building any neural network for the sake of simplicity and consistency.
