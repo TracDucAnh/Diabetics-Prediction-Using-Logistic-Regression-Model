@@ -50,3 +50,17 @@ You can find these statistics in result.txt.
 ## More information
 
 This research project is inspired respectfully by a book by associate professor Tho Quan, "Mang No Ron Nhan Tao Tu Hoi Quy Den Hoc Sau". However, the project focuses on explaining and implementing the Logistic Regression algorithm without building any neural network for the sake of simplicity and consistency.
+
+This repository is respected for my research paper. However, the paper is under completion. T will finish it as soon as possible. You can view the paper via this link: <https://www.overleaf.com/read/rnnndddwrsfz#249c15>. This is a personal project so I can not avoid mistakes. It would be an honor if you share with me any comments to improve my work.
+
+This is my personal information and background:
+
+Full name: DINH TRAC DUC ANH
+
+Email: dinhtracducanh04092005@gmail.com
+
+Currently studying at the Faculty of Computer Science and Engineering, Ho
+Chi Minh City University of Technology
+(HCMUT), Ho Chi Minh City, Vietnam.
+
+Interests: Machine learning, Deep learning.
