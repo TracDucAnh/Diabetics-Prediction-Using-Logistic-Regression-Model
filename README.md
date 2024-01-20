@@ -15,7 +15,7 @@ The dataset was collected by the National Institute of Diabetes and Digestive an
         style="display: block; 
                margin-left: auto;
                margin-right: auto;
-               width: 70%;"
+               width: 80%;"
         src="https://scontent.fsgn12-1.fna.fbcdn.net/v/t1.15752-9/416094909_272934112474072_7879662365743638370_n.png?_nc_cat=110&ccb=1-7&_nc_sid=8cd0a2&_nc_eui2=AeGvbd5Y8F5Qm0pPHW5KNJTOtI6MhHtE9QC0joyEe0T1AIJ-kS4lGgfKhY3u4rG3BLa5X2Ho92hTsRiNERBE7gPJ&_nc_ohc=pDj62d3cqHkAX_IjRXb&_nc_ht=scontent.fsgn12-1.fna&oh=03_AdTR8iou-iWUzDpr0f_-eh69O24bDBfVTFLqoPi_kVBSOQ&oe=65D341DE" 
         alt="Accuracy/Cost according to learning rate">
     </img>
