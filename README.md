@@ -24,7 +24,7 @@ The dataset was collected by the National Institute of Diabetes and Digestive an
 
 The dataset was collected via: <https://www.kaggle.com/datasets/kandij/diabetes-dataset>
 
-You can check the dataset in more detail when running Diabetes_patients_report.py, the program will return Diabetes_patents_report.html and you can see the statistics in your browsers.
+You can check the dataset in more detail when running Diabetes_patients_report.py, the program will return Diabetes_patents_report.html and you can see the statistics on your browsers.
 
 ## How to run the program?
 
