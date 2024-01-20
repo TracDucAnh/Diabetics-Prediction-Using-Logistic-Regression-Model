@@ -1,0 +1,49 @@
+Sweep 1: alpha=0.001
+Cost: 0.5293822482233765
+Predicted true:186/231
+Accuracy: 0.8051948051948052
+
+Sweep 2: alpha=0.012
+Cost: 0.46861534010352357
+Predicted true:179/231
+Accuracy: 0.7748917748917749
+
+Sweep 3: alpha=0.023
+Cost: 0.36777126600044474
+Predicted true:176/231
+Accuracy: 0.7619047619047619
+
+Sweep 4: alpha=0.034
+Cost: 0.32758637867300766
+Predicted true:173/231
+Accuracy: 0.7489177489177489
+
+Sweep 5: alpha=0.045
+Cost: 0.42747506037179056
+Predicted true:171/231
+Accuracy: 0.7402597402597403
+
+Sweep 6: alpha=0.056
+Cost: 0.4843004413574825
+Predicted true:173/231
+Accuracy: 0.7489177489177489
+
+Sweep 7: alpha=0.067
+Cost: 0.3067121752332468
+Predicted true:163/231
+Accuracy: 0.7056277056277056
+
+Sweep 8: alpha=0.078
+Cost: 0.3175292207667418
+Predicted true:167/231
+Accuracy: 0.7229437229437229
+
+Sweep 9: alpha=0.089
+Cost: 0.22990170676735575
+Predicted true:167/231
+Accuracy: 0.7229437229437229
+
+Sweep 10: alpha=0.1
+Cost: 0.2577594811057686
+Predicted true:167/231
+Accuracy: 0.7229437229437229
