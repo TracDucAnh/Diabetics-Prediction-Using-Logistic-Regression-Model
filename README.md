@@ -25,7 +25,7 @@ I create a repository on github where I store and share my code. The repository 
 Having run the model many times with effort, I have found the highest accuracy that the model performs is approximately 80.5%. This might not be the best result that the model could return thus you can improve the model with your knowledge and experience. I believe that changing the learning rate, the iteration, or  the random state in the code could explore more surprising results. Another approach also improves the performance as well.
 
 This is the plot showing the accuracy and the cost after 10 times changing the learning rate alpha of the original code:
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center;">
     <img 
         style="display: block; 
                margin-left: auto;
