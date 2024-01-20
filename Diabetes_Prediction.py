@@ -68,6 +68,22 @@ class derivative:
             sum += self.y_hat[i][0]-self.y[i][0]
         self.bias = self.bias - self.alpha*sum
         return self.bias
+        
+# gradient descent
+def gradient_descent(X, y, weight_init, bias_init, alpha, iter):
+    W = weight_init
+    b = bias_init
+    cost = []
+    weight = []
+    bias = []
+    for i in range(iter):
+        W = derivative(W, b, X, y, alpha).derivative_of_L_respect_to_weight()
+        b = derivative(W, b, X, y, alpha).derivative_of_L_respect_to_bias()
+        cost.append(cost_function(X, W, b, y)[0])
+        weight.append(np.asanyarray(W))
+        bias.append(np.asanyarray(b))
+    min_index = cost.index(min(cost))
+    return min(cost), weight[min_index], bias[min_index] 
 
 # train/test the logistic model with different learning rate
 a = np.linspace(0.001, 0.1, 10)
