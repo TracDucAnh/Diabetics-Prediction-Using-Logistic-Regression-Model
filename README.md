@@ -10,6 +10,8 @@ Early diagnosis is crucial, yet traditional methods such as Fasting Plasma Gluco
 ### Overview:
 The dataset was collected by the National Institute of Diabetes and Digestive and Kidney Diseases. This dataset is a part of a larger dataset of the Pima Indian Diabetes Database. This dataset only focuses on female Pima Indian heritage (a subgroup of Native Americans) patients above 21 years old.
 
+![Alt text](https://scontent.fsgn12-1.fna.fbcdn.net/v/t1.15752-9/416094909_272934112474072_7879662365743638370_n.png?_nc_cat=110&ccb=1-7&_nc_sid=8cd0a2&_nc_eui2=AeGvbd5Y8F5Qm0pPHW5KNJTOtI6MhHtE9QC0joyEe0T1AIJ-kS4lGgfKhY3u4rG3BLa5X2Ho92hTsRiNERBE7gPJ&_nc_ohc=pDj62d3cqHkAX_IjRXb&_nc_ht=scontent.fsgn12-1.fna&oh=03_AdTR8iou-iWUzDpr0f_-eh69O24bDBfVTFLqoPi_kVBSOQ&oe=65D341DE "Overview")
+
 The dataset was collected via: <https://www.kaggle.com/datasets/kandij/diabetes-dataset>
 
 You can check the dataset in more detail when running Diabetes_patients_report.py, the program will return Diabetes_patents_report.html and you can see the statistics in your browsers.
