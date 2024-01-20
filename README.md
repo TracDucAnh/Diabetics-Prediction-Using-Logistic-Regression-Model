@@ -1,4 +1,4 @@
-# Diabetics-Prediction-Using-Logistic-Regression-Model
+# Diabetes-Prediction-Using-Logistic-Regression-Model
 A Research Project on Applying Logistic Regression to Predict Result of Diabetes Diagnosis
 ## Introduction
 The rise of Logistic Regression in machine learning stemmed from the need for a model capable of predicting categorical outcomes. Typically, these involve binary values like 0 and 1, representing opposing states like true/false, benign/malignant, or pregnant/not pregnant. Mastering Logistic Regression and its implementation paves the way for accurate solutions in classification problems, particularly those with binary outputs.
