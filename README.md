@@ -19,3 +19,9 @@ You can check the dataset in more detail when running Diabetes_patients_report.p
 ## How to run the program?
 
 I create a repository on github where I store and share my code. The repository contains 1 folder that includes the dataset and 5 files, just focusing on Diabetes_Prediction.py because that file is where we implement the Logistic Regression model. Running the program is simple, you download all files in this repository and use any IDE for running your Python program, make sure you satisfy the requirement in requirement.txt, the version of libraries and packages should be latest. As mentioned above, Diabetes_patients_report.py is just a program to explore the dataset.
+
+## More information
+
+This research project is inspired respectfully by a book by associate professor Tho Quan, "Mang No Ron Nhan Tao Tu Hoi Quy Den Hoc Sau"}\cite{Artificial-Neural-Network:-from-Regression-to-Deep-Learning. However, the project focuses on explaining and implementing the Logistic Regression algorithm without building any neural network for the sake of simplicity and consistency.
+
+I'm happy to share with 
