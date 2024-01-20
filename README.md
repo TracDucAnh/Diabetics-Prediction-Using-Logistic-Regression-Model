@@ -7,4 +7,7 @@ Diabetes mellitus encompasses a group of diseases disrupting the body's blood su
 
 Early diagnosis is crucial, yet traditional methods such as Fasting Plasma Glucose (FPG), Oral Glucose Tolerance Test (OGTT), or Glycated Hemoglobin (HbA1c) often prove cumbersome. This research delves into the potential of Logistic Regression to accurately predict diabetes based on readily available data, potentially paving the way for more accessible and reliable diagnoses. Notably, predicting type 1 diabetes also relies on the Logistic Regression algorithm, aiming to estimate the probability of a patient receiving a diagnosis. This problem demands a binary output, where 1 indicates a type 1 diabetes diagnosis and 0 signifies its absence.
 ## About dataset
+### Overview:
+The dataset was collected by the National Institute of Diabetes and Digestive and Kidney Diseases. This dataset is a part of a larger dataset of the Pima Indian Diabetes Database. This dataset only focuses on female Pima Indian heritage (a subgroup of Native Americans) patients above 21 years old.
+Dataset was collected via: <https://www.kaggle.com/datasets/kandij/diabetes-dataset>
 
