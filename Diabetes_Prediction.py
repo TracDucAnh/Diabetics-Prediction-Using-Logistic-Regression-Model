@@ -96,6 +96,9 @@ for j in range(10):
     print("Predicted true:" + str(true) + "/" + str(yhat.shape[0]))
     print("Accuracy: " + str(accuracy[j]))
 
+# scale the cost to plot
+cost_arr = cost_arr/max(cost_arr)
+
 # visualization
 plt.plot(a, accuracy, color = "blue", label = "accuracy")
 plt.plot(a, cost_arr, color = "red", label = "cost")
