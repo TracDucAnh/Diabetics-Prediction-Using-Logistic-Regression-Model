@@ -30,7 +30,7 @@ This is the plot showing the accuracy and the cost after 10 times changing the l
         style="display: block; 
                margin-left: auto;
                margin-right: auto;
-               width: 50%;"
+               width: 100%;"
         src="https://scontent.xx.fbcdn.net/v/t1.15752-9/413489702_727311096185996_1394957675497422875_n.png?_nc_cat=107&ccb=1-7&_nc_sid=510075&_nc_eui2=AeEhzj9nO_zRf8uQ_nrKL-tIdaAjxtM2WO51oCPG0zZY7k_BkWFdArz1aegH_UWJfses7WywG0umMt-WvnsBti4M&_nc_ohc=3fxwpVPeqtMAX-hRYLV&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTfDqaPkHgJv919Jd4i95q5bFMJIWLX6KFL4ZmOWK2h1g&oe=65D36B00" 
         alt="Accuracy/Cost according to learning rate">
     </img>
